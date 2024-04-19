@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6a7e0074-5d38-4c5d-a126-51268a37480f"
+      }
+    },
+    "owner": "verunto"
   }
 }
